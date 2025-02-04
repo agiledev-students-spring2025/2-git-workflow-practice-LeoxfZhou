@@ -1,5 +1,5 @@
 # Article link
-https://dev.to/arjun98k/the-rise-of-ai-coding-assistants-how-theyre-changing-the-developers-workflow-19p5
+[The Rise of AI Coding Assistants: How They're Changing the Developer's Workflow](https://dev.to/arjun98k/the-rise-of-ai-coding-assistants-how-theyre-changing-the-developers-workflow-19p5){:target="_blank"}
 
 # What I found interesting
 The article discusses how AI-powered coding tools are revolutionizing software development. It lists several major AI assistants including Claude, Warp AI Terminal, GitHub Copilot, and ChatGPT-4 Mini. These tools help developers with various tasks like code completion and bug fixing.
